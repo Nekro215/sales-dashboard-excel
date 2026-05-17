@@ -1,3 +1,4 @@
+![Sales Performance Dashboard](Sales_Performance_Dashboard_Preview.png)
 # Sales Dashboard (Excel Project)
 
 ## Overview
